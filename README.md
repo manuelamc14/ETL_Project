@@ -43,7 +43,7 @@ Pandas Phase:
 
 - Once standardized, we combined all of the data into a single dataframe using the concat function. 
 
-* Normalization Data Phase: *
+*Normalization Data Phase: *
 
 To make the database more flexible and the information loading process faster, we split the main dataframe into four data frames that will be loaded to the database as tables: restaurants, categories, menu items and nutrition following the steps below:
 
